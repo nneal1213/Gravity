@@ -4,7 +4,7 @@ title : About
 permalink: /about/
 ---
 
-[Neal Cheng](https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/15542232_10105040785182913_3223676016619856886_n.jpg?oh=bfd5082f4ad0aec5c6554d3b3971a05e&oe=5A271B1E){:height="300px" width = "250"}
+![Neal Cheng](https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/15542232_10105040785182913_3223676016619856886_n.jpg?oh=bfd5082f4ad0aec5c6554d3b3971a05e&oe=5A271B1E){:height="300px" width = "250"}
 
 I'm a Scientist looking to apply the skills I had gained during my years as a researcher in the biopharmaceutical industry towards problems in other areas.
 
