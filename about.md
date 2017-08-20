@@ -4,6 +4,16 @@ title : About
 permalink: /about/
 ---
 
+[Neal Cheng](https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/15542232_10105040785182913_3223676016619856886_n.jpg?oh=bfd5082f4ad0aec5c6554d3b3971a05e&oe=5A271B1E){:height="300px" width = "250"}
+
+I'm a Scientist looking to apply the skills I had gained during my years as a researcher in the biopharmaceutical industry towards problems in other areas.
+
+I started my journey during the Ph.D program at U.C. Davis studying methods to enhance radiation therapy through nanotechnology.  After graduation, I've continued working on cancer research by joining Eureka Therapeutics, a drug-discovery company.  During my time there, I had participated in the discovery of a potential drug against liver cancer, and worked on identifying suitable drug targets.
+
+My passion had always been in leveraging my analytical and critical-thinking towards tackling the major problems in society.  In order to further my skills, I am currently enrolled in Metis, a 12-week data science bootcamp.  If you want to contact me, I can be reached at [nncheng81@gmail.com](nncheng81@gmail.com)
+
+
+
 <h2>Gravity</h2>
 <p>Minimal, text based, liberal Jekyll theme<br>for sharing your awesome ideas.</p>
 <br>
